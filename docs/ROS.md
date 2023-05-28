@@ -3,6 +3,7 @@ title: ROS Noetic
 description: Installation Instructions for ROS Noetic
 permalink: /Installation/ROS/
 category: Installation Guides
+order: 120
 ---
 
 These instructions are derived from the [Official Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu).

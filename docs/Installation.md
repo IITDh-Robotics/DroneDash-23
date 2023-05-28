@@ -3,6 +3,7 @@ title: Drone Dash
 description: This guide will walk you through setting up the development environment for Drone Dash.
 permalink: /Installation/
 category: Installation Guides
+order: 110
 ---
 
 # Ubuntu 20.04
