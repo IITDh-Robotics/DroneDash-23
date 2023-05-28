@@ -3,7 +3,7 @@ title: PX4
 description: Installation Instructions for PX4
 permalink: /Installation/PX4/
 category: Installation Guides
-order: 120
+order: 140
 ---
 
 These instructions are derived from the [Official Installation Guide](https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html#ros-gazebo-classic).
