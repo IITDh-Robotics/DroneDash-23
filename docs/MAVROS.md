@@ -2,8 +2,7 @@
 title: MAVROS Installation Guide
 description: Installation Instructions for MAVROS derived from the [Official Installation Guide](https://github.com/mavlink/mavros/tree/master/mavros#installation).
 permalink: /Installation/MAVROS/
-categories:
-  - Installation Guides
+category: Installation Guides
 ---
 
 # Prerequisites

@@ -6,7 +6,7 @@
 remote_theme: olivier3lanc/Jekyll-LibDoc
 title: Drone Dash
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
-  The official boilerplate repository for Drone Dash @ Summer of Innovation 2023, IIT Dharwad.
+  The official documentation for Drone Dash @ Summer of Innovation 2023, IIT Dharwad.
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
 # url: http://localhost # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog

@@ -2,8 +2,7 @@
 title: ROS Noetic Installation Guide
 description: Installation Instructions for ROS Noetic derived from the [Official Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu).
 permalink: /Installation/ROS/
-categories:
-  - Installation Guides
+category: Installation Guides
 ---
 
 # Prerequisites
