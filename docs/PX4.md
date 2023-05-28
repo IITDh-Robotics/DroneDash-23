@@ -1,11 +1,11 @@
 ---
 title: PX4
-description:
+description: Installation Instructions for PX4
 permalink: /Installation/PX4/
 category: Installation Guides
 ---
 
-Installation Instructions for PX4 derived from the [Official Installation Guide](https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html#ros-gazebo-classic).
+These instructions are derived from the [Official Installation Guide](https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html#ros-gazebo-classic).
 
 # Prerequisites
 You be running Ubuntu 20.04.

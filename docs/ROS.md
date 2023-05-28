@@ -1,11 +1,11 @@
 ---
 title: ROS Noetic
-description:
+description: Installation Instructions for ROS Noetic
 permalink: /Installation/ROS/
 category: Installation Guides
 ---
 
-Installation Instructions for ROS Noetic derived from the [Official Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu).
+These instructions are derived from the [Official Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu).
 
 # Prerequisites
 You be running Ubuntu 20.04.
