@@ -184,7 +184,7 @@ sidebar:
             order: 510
             category: ROS Resources
         -   url: https://youtube.com/playlist?list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt
-            title: Getting Started With ROS | Articulated Robotics on Youtube
+            title: Getting Started With ROS - Articulated Robotics on Youtube
             order: 510
             category: ROS Resources
         # PX4 Autopilot Resources
