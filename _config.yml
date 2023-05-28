@@ -169,10 +169,6 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/IITDh-Robotics/DroneDash-23/ # Local or remote URL
-            title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            order: 10 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-            # category: Showcase # Add this this link into a category just like pages
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
         #     title: Iframe mode example # Link text
         #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
@@ -200,6 +196,10 @@ sidebar:
             title: PX4 User Guide
             order: 520
             category: PX4 Autopilot Resources
+        -   url: https://github.com/IITDh-Robotics/DroneDash-23/ # Local or remote URL
+            title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
+            order: 610 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            separator: true
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
