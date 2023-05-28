@@ -1,5 +1,5 @@
 ---
-title: Installation Guide
+title: Drone Dash
 description: This guide will walk you through setting up the development environment for Drone Dash.
 permalink: /Installation/
 category: Installation Guides

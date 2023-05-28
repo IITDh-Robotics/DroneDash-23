@@ -1,9 +1,10 @@
 ---
-title: MAVROS Installation Guide
-description: Installation Instructions for MAVROS derived from the [Official Installation Guide](https://github.com/mavlink/mavros/tree/master/mavros#installation).
+title: MAVROS
 permalink: /Installation/MAVROS/
 category: Installation Guides
 ---
+
+Installation Instructions for MAVROS derived from the [Official Installation Guide](https://github.com/mavlink/mavros/tree/master/mavros#installation).
 
 # Prerequisites
 You must have ROS Noetic installed. See [ROS Noetic Installation Guide](ROS.md).
