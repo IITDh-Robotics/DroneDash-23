@@ -1,6 +1,6 @@
 ---
 title: Drone Dash
-description: The official documentation for Drone Dash @ Summer of Innovation 2023, IIT Dharwad.
+description: The official documentation and support for Drone Dash @ Summer of Innovation 2023, IIT Dharwad.
 permalink: /index
 order: 0
 ---
