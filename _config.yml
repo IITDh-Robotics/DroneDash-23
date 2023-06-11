@@ -4,6 +4,8 @@
 # ---------
 # TO USE JEKYLL LIBDOC AS REMOTE THEME, UNCOMMENT (available only on Github)
 remote_theme: olivier3lanc/Jekyll-LibDoc
+plugins:
+  - jekyll-remote-theme
 title: Drone Dash
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   The official documentation and support for Drone Dash @ Summer of Innovation 2023, IIT Dharwad.
