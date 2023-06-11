@@ -6,6 +6,8 @@ category: Installation Guides
 order: 110
 ---
 
+{:toc}
+
 # Ubuntu 20.04
 The development environment is based on Ubuntu 20.04. Ubuntu 20.04 was installed as part of the Linux Installation Drive recently conducted by the Techical Council. If you could not attend the drive, you can follow the provided instructions [here](https://docs.google.com/presentation/d/1V-vmox13ZVTD80zHWISHAr5jIA98rXx4nFpERsKTPJI/edit?usp=sharing).
 

@@ -5,9 +5,7 @@ permalink: /Troubleshooting/
 order: 10
 ---
 
-- [RLException: [demo.launch] is neither a launch file in package [dronedash] nor is [dronedash] a launch file name](#rlexception-demo-launch-is-neither-a-launch-file-in-package-dronedash-nor-is-dronedash-a-launch-file-name)
-- [Resource not found: px4](#resource-not-found-px4)
-- [Failsafe mode activated](#failsafe-mode-activated)
+{:toc}
 
 ## RLException: [demo.launch] is neither a launch file in package [dronedash] nor is [dronedash] a launch file name
 To resolve this error, make sure that you have [sourced the workspace](./ROS.md#sourcing-the-workspace) before running the launching the demo.

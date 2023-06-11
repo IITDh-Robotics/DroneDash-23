@@ -6,6 +6,8 @@ category: Installation Guides
 order: 130
 ---
 
+{:toc}
+
 These instructions are derived from the [Official Installation Guide](https://github.com/mavlink/mavros/tree/master/mavros#installation).
 
 # Prerequisites
