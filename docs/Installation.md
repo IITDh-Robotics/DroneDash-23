@@ -5,7 +5,7 @@ permalink: /Installation/
 category: Installation Guides
 order: 110
 ---
-
+*
 {:toc}
 
 # Ubuntu 20.04
