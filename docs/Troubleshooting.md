@@ -1,3 +1,10 @@
+---
+title: Troubleshooting
+description: Steps to troubleshoot some frequently encountered errors.
+permalink: /Troubleshooting/
+order: 10
+---
+
 # Troubleshooting
 Steps to troubleshoot some frequently encountered errors.
 
