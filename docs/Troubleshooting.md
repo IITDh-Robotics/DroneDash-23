@@ -5,9 +5,6 @@ permalink: /Troubleshooting/
 order: 10
 ---
 
-# Troubleshooting
-Steps to troubleshoot some frequently encountered errors.
-
 - [RLException: [demo.launch] is neither a launch file in package [dronedash] nor is [dronedash] a launch file name](#rlexception-demo-launch-is-neither-a-launch-file-in-package-dronedash-nor-is-dronedash-a-launch-file-name)
 - [Resource not found: px4](#resource-not-found-px4)
 - [Failsafe mode activated](#failsafe-mode-activated)
