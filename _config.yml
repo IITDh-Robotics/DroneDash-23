@@ -179,11 +179,11 @@ sidebar:
             title: Problem Statement
             order: 100
             iframe_mode: true
-        -   url: https://docs.google.com/forms/d/e/1FAIpQLSfpnQtl38CMsv416HLAhoHyPQlbokL6S2up7SuIwpna2FLSGg/viewform?usp=sf_link
-            title: Registration Form
-            order: 101
         -   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTCa-ZfgXttU69BgLjeztLxkOuncUlEH1-9YaXK_W6bYEUm-lxnZdeNPMm-BJ2bJ_kiqSJiSB0G_MDp/pubhtml?gid=431888460&single=true
             title: Mentor Allotment
+            order: 101
+        -   url: https://forms.gle/5F6UYhhmWV2VhxPy9
+            title: Demo Submission Form
             order: 102
         # ROS Resources
         -   url: https://wiki.ros.org/
