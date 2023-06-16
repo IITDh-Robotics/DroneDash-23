@@ -1,5 +1,12 @@
-# OBS Studio Recording Guide
-This guide will walk you through setting up and screen recording with OBS Studio.
+---
+title: Screen Recording with OBS
+description: This guide will walk you through setting up and screen recording with OBS Studio.
+permalink: /Guides/OBS/
+category: Guides
+order: 200
+---
+* 
+{:toc}
 
 ## Installation
 Run the following command to install OBS Studio.
