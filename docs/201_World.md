@@ -15,9 +15,9 @@ cd ~/drone-dash && git pull
 ```
 
 ## Launching into the New World
-To launch into a specific world add the `world` argument to the launch command. For example to launch into the `world_1` world run the following command.
+To launch into a specific world add the `world` argument to the launch command. For example to launch into `world_1`, run the following command.
 ```bash
 roslaunch drone_dash world:=1
 ```
 
-> Note: The original world is `world_0` so the default value for the `world` argument is `0`.
+> Note: The original world is `world_0` i.e. the default value for the `world` argument is `0`.
