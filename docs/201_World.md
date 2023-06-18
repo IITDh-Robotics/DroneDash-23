@@ -1,7 +1,7 @@
 ---
 title: Launching a New World
 description: This guide will walk you through launching into a newly released world.
-permalink: /Guides/OBS/
+permalink: /Guides/World/
 category: Guides
 order: 201
 ---
