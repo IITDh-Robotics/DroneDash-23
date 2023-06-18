@@ -1,5 +1,12 @@
-# Launching a New World
-This guide will walk you through launching into a newly released world.
+---
+title: Launching a New World
+description: This guide will walk you through launching into a newly released world.
+permalink: /Guides/OBS/
+category: Guides
+order: 201
+---
+* 
+{:toc}
 
 ## Update Drone Dash
 First we need to update Drone Dash to the latest version to get the latest worlds. Run the following command to update Drone Dash.
