@@ -207,10 +207,14 @@ sidebar:
             title: PX4 User Guide
             order: 520
             category: PX4 Autopilot Resources
-        -   url: https://github.com/IITDh-Robotics/DroneDash-23/ # Local or remote URL
-            title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            order: 610 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+        -   url: https://oss2019.github.io/soi/
+            title: Summer of Innovation 2023
+            order: 605
             separator: true
+            category: PX4 Autopilot Resources
+        -   url: https://github.com/IITDh-Robotics/DroneDash-23/
+            title: <span class="i-github u-mr-xxs"></span> View on GitHub
+            order: 610
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
