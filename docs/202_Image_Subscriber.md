@@ -1,5 +1,12 @@
-# Image Subscriber Guide
-This guide will walk you through the process of creating a subscriber node that subscribes to a the camera topic.
+---
+title: Image Subscriber Guide
+description: This guide will walk you through the process of creating a subscriber node that subscribes to a the camera topic.
+permalink: /Guides/ImageSub/
+category: Guides
+order: 202
+---
+* 
+{:toc}
 
 ## Import the Required Packages
 First be sure to import the required packages.
