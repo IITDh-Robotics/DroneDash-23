@@ -460,7 +460,7 @@ prism:
         #- pure
         #- purebasic
         #- purescript
-        #- python
+        - python
         #- qsharp
         #- q
         #- qml
