@@ -30,13 +30,12 @@ Now we need to create the callback function that will be called whenever a new m
 
 The image message format is `sensor_msgs/Image`, details about this message can be found [here](http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/Image.html).
 
-We take the data field of the message and convert it to a NumPy array using `np.frombuffer`. Then we reshape the array to the correct dimensions. Finally we convert the image from BGR to RGB (ROS uses RGB whereas OpenCV uses BGR) and display it using OpenCV.
+We take the data field of the message and convert it to a NumPy array using `np.frombuffer`. Remember to choose the correct data type and number of channels for the image. For example, if the image is a color image, then the data type should be `np.uint8` and number of channels '3'. If the image is a depth image, then the data type should be `np.float32` and number of channels '1'.
 ```python
 def callback(msg):
 	try:
 		# Convert the image message to a NumPy array
-		img_np = np.frombuffer(msg.data, dtype=np.uint8).reshape(msg.height, msg.width, -1)
-		img_np = cv2.cvtColor(img_np, cv2.COLOR_BGR2RGB)
+		img_np = np.frombuffer(msg.data, dtype=np.float32).reshape(msg.height, msg.width, 1) # For depth image
 	except Exception as e:
 		rospy.logerr(e)
 		return
@@ -70,13 +69,12 @@ import numpy as np
 
 class ImageSubscriber:
     def __init__(self):
-        self.image_sub = rospy.Subscriber('/camera/color/image_raw', Image, self.callback)
+        self.image_sub = rospy.Subscriber('/camera/depth/image_raw', Image, self.callback)
 
     def callback(self, msg):
         try:
             # Convert the image message to a NumPy array
-            img_np = np.frombuffer(msg.data, dtype=np.uint8).reshape(msg.height, msg.width, -1)
-            img_np = cv2.cvtColor(img_np, cv2.COLOR_BGR2RGB)
+            img_np = np.frombuffer(msg.data, dtype=np.float32).reshape(msg.height, msg.width, 1)
         except Exception as e:
             rospy.logerr(e)
             return
