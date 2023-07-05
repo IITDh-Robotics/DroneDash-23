@@ -182,9 +182,9 @@ sidebar:
         -   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTCa-ZfgXttU69BgLjeztLxkOuncUlEH1-9YaXK_W6bYEUm-lxnZdeNPMm-BJ2bJ_kiqSJiSB0G_MDp/pubhtml?gid=431888460&single=true
             title: Mentor Allotment
             order: 101
-        # -   url: https://forms.gle/5F6UYhhmWV2VhxPy9
-        #     title: Demo Submission Form
-        #     order: 102
+        -   url: https://forms.gle/JkJkusAEn7AFRQ8P7
+            title: Final Submission Form
+            order: 102
         # ROS Resources
         -   url: https://wiki.ros.org/
             title: ROS Wiki
