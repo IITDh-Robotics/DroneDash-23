@@ -2,16 +2,15 @@
 Installation Instructions for PX4 derived from the [Official Installation Guide](https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html#ros-gazebo-classic).
 
 ## Prerequisites
-You be running Ubuntu 20.04.
+You must be running Ubuntu 20.04.
 
 ## Installation
 
 ### Download PX4 Source Code
 ```bash
 cd ~
-git clone https://github.com/PX4/PX4-Autopilot.git
+git clone -b v1.13.3  https://github.com/PX4/PX4-Autopilot.git
 cd PX4-Autopilot
-git checkout tags/v1.13.3
 git submodule update --init --recursive
 ```
 

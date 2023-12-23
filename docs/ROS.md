@@ -2,7 +2,7 @@
 Installation Instructions for ROS Noetic derived from the [Official Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu).
 
 ## Prerequisites
-You be running Ubuntu 20.04.
+You must be running Ubuntu 20.04.
 
 ## Setup your sources.list
 Setup your computer to accept software from packages.ros.org.
