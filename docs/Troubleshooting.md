@@ -14,10 +14,10 @@ rm -r ~/.gazebo/models/asphalt_plane
 ```
 
 ## RLException: [demo.launch] is neither a launch file in package [dronedash] nor is [dronedash] a launch file name
-To resolve this error, make sure that you have [sourced the workspace](./ROS.md#sourcing-the-workspace) before running the launching the demo.
+To resolve this error, make sure that you have [sourced the workspace](./Installation/Noetic/ROS#sourcing-the-workspace) before running the launching the demo.
 
 ## Resource not found: px4
-To resolve this error, make sure that you have [added PX4 to your path](./PX4.md#add-px4-to-your-path) before running the demo.
+To resolve this error, make sure that you have [added PX4 to your path](./Installation/PX4#add-px4-to-your-path) before running the demo.
 
 ## Failsafe mode activated
 It may happen that after running the demo for the first time that the drone does not takeoff and you encounter the message `Failsafe mode activated` in the terminal. To solve this paste the following command in the same terminal without stopping the running command.

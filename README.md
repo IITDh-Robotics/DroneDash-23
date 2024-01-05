@@ -15,7 +15,7 @@ You will be developing the algorithm for use with the [PX4 Autopilot Stack](http
 
 You will be using the [Gazebo](https://classic.gazebosim.org/) simulator to test your algorithm. Gazebo is a 3D robotics simulator that provides a physics engine, high-quality graphics, and convenient programmatic and graphical interfaces.
 
-Instructions for setting up the development environment are provided in the [Installation Guide](./docs/Installation.md).
+Instructions for setting up the development environment are provided in the [Installation Guide](./docs/Noetic/Installation.md).
 
 ## Demo Script
 We have provided a [demo script](./scripts/demo_node.py) to get you started. The script gets the drone to takeoff and then move forward and backward in a loop. You can launch a simulation with the demo script using the following command.
@@ -28,10 +28,10 @@ To see the RGB and depth images from the camera in RVIZ, set the `rviz` paramete
 roslaunch dronedash demo.launch rviz:=true
 ```
 
-Note: If the demo does not work, and you encounter the message `Failsafe mode activated` in the terminal see the [Troubleshooting](#failsafe-mode-activated) section.
+> Note: If the demo does not work, and you encounter the message `Failsafe mode activated` in the terminal see the [Troubleshooting](./docs/Troubleshooting#failsafe-mode-activated) section.
 
 ## Resources
-We have provided a list of recommended resources that you can use to learn more about the development environment and the PX4 Autopilot Stack.
+We have provided below a list of recommended resources that you can use to learn more about the development environment and the PX4 Autopilot Stack.
 
 ### ROS
 * [ROS Wiki](https://wiki.ros.org/)
@@ -39,5 +39,5 @@ We have provided a list of recommended resources that you can use to learn more 
 * [Getting Started With ROS - Articulated Robotics on Youtube](https://youtube.com/playlist?list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt)
 
 ### PX4 Autopilot
-* [Flight Modes](https://docs.px4.io/v1.13/en/flight_modes/#multicopter)
+* [Flight Modes](https://docs.px4.io/v1.13/en/flight_modes#multicopter)
 * [User Guide](https://docs.px4.io/v1.13/en/ros/ros1.html)
