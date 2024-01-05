@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Steps to troubleshoot some frequently encountered errors.
 permalink: /Troubleshooting/
-order: 1
+order: 2
 ---
 * 
 {:toc}
