@@ -3,7 +3,7 @@ title: PX4
 description: Installation Instructions for PX4
 permalink: /Installation/PX4/
 category: Installation Guides
-order: 140
+order: 14
 ---
 * 
 {:toc}

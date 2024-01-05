@@ -3,7 +3,7 @@ title: MAVROS
 description: Installation Instructions for MAVROS
 permalink: /Installation/MAVROS/
 category: Installation Guides
-order: 130
+order: 13
 ---
 * 
 {:toc}

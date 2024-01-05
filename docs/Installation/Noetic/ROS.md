@@ -1,9 +1,9 @@
 ---
 title: ROS Noetic
 description: Installation Instructions for ROS Noetic
-permalink: /Installation/ROS/
+permalink: /Installation/Noetic/ROS/
 category: Installation Guides
-order: 120
+order: 12
 ---
 * 
 {:toc}

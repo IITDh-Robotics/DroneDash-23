@@ -15,7 +15,7 @@ You will be developing the algorithm for use with the [PX4 Autopilot Stack](http
 
 You will be using the [Gazebo](https://classic.gazebosim.org/) simulator to test your algorithm. Gazebo is a 3D robotics simulator that provides a physics engine, high-quality graphics, and convenient programmatic and graphical interfaces.
 
-Instructions for setting up the development environment are provided in the [Installation Guide](./docs/Noetic/Installation.md).
+Instructions for setting up the development environment are provided in the [Installation Guide](./docs/Installation/Noetic/).
 
 ## Demo Script
 We have provided a [demo script](./scripts/demo_node.py) to get you started. The script gets the drone to takeoff and then move forward and backward in a loop. You can launch a simulation with the demo script using the following command.
