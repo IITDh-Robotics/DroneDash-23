@@ -2,7 +2,7 @@
 title: Development Environment
 description: This guide will walk you through setting up the development environment for Drone Dash.
 permalink: /Installation/Noetic/
-category: Installation Guides
+category: Installation Guide (Noetic)
 order: 11
 ---
 * 

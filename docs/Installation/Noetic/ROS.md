@@ -2,7 +2,7 @@
 title: ROS Noetic
 description: Installation Instructions for ROS Noetic
 permalink: /Installation/Noetic/ROS/
-category: Installation Guides
+category: Installation Guide (Noetic)
 order: 12
 ---
 * 

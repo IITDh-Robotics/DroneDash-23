@@ -210,6 +210,9 @@ sidebar:
             title: <span class="i-github u-mr-xxs"></span> View on GitHub
             order: 610
 
+collections:
+  - Installation Guide (Noetic)
+
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
 shields:
@@ -537,5 +540,3 @@ prism:
 # Link powered by LibDoc - Uncomment to remove
 # disable_powered_by_link: true
 
-collections:
-  - Installation Guides
